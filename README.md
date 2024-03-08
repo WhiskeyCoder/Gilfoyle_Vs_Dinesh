@@ -1,5 +1,5 @@
 # Gilfoyle Vs Dinesh
-![Silicon Valley]([https://example.com/silicon_valley_image.jpg](https://raw.githubusercontent.com/WhiskeyCoder/GilfoyleVsDinesh/main/silicon-valley-season-5-2018.jpeg))
+![Silicon Valley](https://raw.githubusercontent.com/WhiskeyCoder/GilfoyleVsDinesh/main/silicon-valley-season-5-2018.jpeg))
 
 
 ## Purpose:
