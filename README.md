@@ -1,4 +1,6 @@
 # Gilfoyle Vs Dinesh
+![Silicon Valley]([https://example.com/silicon_valley_image.jpg](https://raw.githubusercontent.com/WhiskeyCoder/GilfoyleVsDinesh/main/silicon-valley-season-5-2018.jpeg))
+
 
 ## Purpose:
 This script is inspired by the TV show "Silicon Valley" and aims to mimic the humorous interactions between the characters Gilfoyle and Dinesh using LMStudio's API. The show often portrays scenarios where the characters' witty banter leads to unexpected consequences, such as crashing the network. This script attempts to recreate such interactions in an AI conversation format.
