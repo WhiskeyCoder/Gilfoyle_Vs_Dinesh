@@ -2,7 +2,7 @@
 ![Silicon Valley](https://raw.githubusercontent.com/WhiskeyCoder/GilfoyleVsDinesh/main/silicon-valley-season-5-2018.jpeg)
 
 ## 🤖 What Is This?
-A hilarious AI-powered simulation inspired by HBO’s *Silicon Valley*, this script recreates the iconic back-and-forth between Gilfoyle and Dinesh — but as if they were Slack bots trash-talking each other in real time.
+A hilarious AI-powered simulation inspired by HBO’s *Silicon Valley*, this script recreates the iconic back-and-forth between Gilfoyle and Dinesh, but as if they were Slack bots trash-talking each other in real time.
 
 Powered by LM Studio's API (or mock responses for offline fun), this project uses custom personality prompts to generate dialogue that mirrors the characters' sarcastic, smug, and gloriously dysfunctional tech bromance.
 
@@ -71,7 +71,7 @@ Gilfoyle: "Transfer learning just lifts pre-trained weights from someone else's 
 ## ⚠️ Disclaimer
 - This script is just for fun and fan appreciation.
 - The character behaviors are exaggerated for entertainment.
-- It’s not perfect — but that’s kind of the point.
+- It’s not perfect, but that’s kind of the point.
 
 ---
 ## 💡 Tips
